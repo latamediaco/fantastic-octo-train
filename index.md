@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://latamediaco.github.io/fantastic-octo-train/pagina.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://latamediaco.github.io/fantastic-octo-train/articulo2.html) to maintain and preview the content for your website in Markdown files.
 
 
 ### Links
